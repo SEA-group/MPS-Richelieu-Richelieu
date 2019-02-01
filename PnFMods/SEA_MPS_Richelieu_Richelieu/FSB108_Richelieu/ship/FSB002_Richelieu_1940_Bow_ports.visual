@@ -1,1 +1,159 @@
-<FSB002_Richelieu_1940_Bow_ports.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Bow_ports</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_FGA_1</identifier><transform><row0>0.707107 0.000000 0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.707107 0.000000 0.707107 0.000000</row2><row3>-0.214599 0.462216 5.327705 1.000000</row3></transform></node><node><identifier>HP_FGA_2</identifier><transform><row0>0.707107 0.000000 -0.707107 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.707107 0.000000 0.707107 0.000000</row2><row3>0.214599 0.462216 5.327705 1.000000</row3></transform></node><node><identifier>MP_CTB1514</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.447570 5.098678 1.000000</row3></transform></node><node><identifier>MP_CTB1512</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.589094 8.014562 1.000000</row3></transform></node><node><identifier>MP_FTB0078</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.043065 0.465563 5.557421 1.000000</row3></transform></node><node><identifier>MP_FTB0079</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.573185 6.349710 1.000000</row3></transform></node><node><identifier>MP_FTB0083</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.405779 7.960967 1.000000</row3></transform></node><node><identifier>MP_FTB0080</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.405779 7.960967 1.000000</row3></transform></node><node><identifier>MP_FTB0081</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.492200 6.214815 1.000000</row3></transform></node><node><identifier>MP_FTB0082</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.457476 5.332308 1.000000</row3></transform></node><node><identifier>MP_CTB1513</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>-0.000003 0.458856 5.327826 1.000000</row3></transform></node><node><identifier>MP_FM851_Mastheadlight</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.998724 8.288011 1.000000</row3></transform></node><node><identifier>MP_FTB0077</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.452140 5.212514 1.000000</row3></transform></node><node><identifier>HP_Fire_Burn_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 6.292352 1.000000</row3></transform></node><node><identifier>HP_Ship_death_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 4.439552 1.000000</row3></transform></node></node></node><boundingBox><min>-0.066700 -0.066700 -0.066700</min><max>0.066700 0.066700 0.066700</max></boundingBox></FSB002_Richelieu_1940_Bow_ports.visual>
+<FSB002_Richelieu_1940_Bow_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_FGA_1	</identifier>
+				<transform>
+					<row0>	0.707107 0.000000 0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.707107 0.000000 0.707107 0.000000	</row2>
+					<row3>	-0.214599 0.462216 5.327705 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGA_2	</identifier>
+				<transform>
+					<row0>	0.707107 0.000000 -0.707107 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.707107 0.000000 0.707107 0.000000	</row2>
+					<row3>	0.214599 0.462216 5.327705 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB1514	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.447570 5.098678 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB1512	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.589094 8.014562 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0078	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.043065 0.465563 5.557421 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0079	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.573185 6.349710 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0083	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.405779 7.960967 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0080	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.405779 7.960967 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0081	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.492200 6.214815 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0082	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.457476 5.332308 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB1513	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000003 0.458856 5.327826 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM851_Mastheadlight	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.998724 8.288011 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0077	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.452140 5.212514 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 6.292352 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 4.439552 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+</FSB002_Richelieu_1940_Bow_ports.visual>

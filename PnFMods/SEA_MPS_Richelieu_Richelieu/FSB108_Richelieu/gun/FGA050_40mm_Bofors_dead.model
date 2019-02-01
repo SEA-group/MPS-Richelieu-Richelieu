@@ -1,1 +1,9 @@
-<FGA050_40mm_Bofors_dead.model><exporter>1.6</exporter><parent>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA050_40mm_Bofors_dead_lod1</parent><extent>4.0000</extent><castsShadow>false</castsShadow><materialNames /><nodefullVisual>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA050_40mm_Bofors_dead</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></FGA050_40mm_Bofors_dead.model>
+<FGA050_40mm_Bofors_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA050_40mm_Bofors_dead_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA050_40mm_Bofors_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGA050_40mm_Bofors_dead.model>

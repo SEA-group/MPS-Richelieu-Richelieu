@@ -1,0 +1,14 @@
+<FGA050_40mm_Bofors_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/AGA056_40mm_Bofors_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/AGA056_40mm_Bofors_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA050_40mm_Bofors_a.dds	</Texture>
+	</property>
+</FGA050_40mm_Bofors_wire.mfm>

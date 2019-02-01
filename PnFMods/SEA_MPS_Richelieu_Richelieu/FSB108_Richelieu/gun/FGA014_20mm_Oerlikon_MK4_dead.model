@@ -1,1 +1,9 @@
-<FGA014_20mm_Oerlikon_MK4_dead.model><castsShadow>false</castsShadow><exporter>1.6</exporter><parent>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA014_20mm_Oerlikon_MK4_dead_lod1</parent><nodefullVisual>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA014_20mm_Oerlikon_MK4_dead</nodefullVisual><extent>2</extent><materialNames /><metaData>Wargaming | Lesta Studio</metaData></FGA014_20mm_Oerlikon_MK4_dead.model>
+<FGA014_20mm_Oerlikon_MK4_dead.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA014_20mm_Oerlikon_MK4_dead_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA014_20mm_Oerlikon_MK4_dead	</nodefullVisual>
+	<extent>	2	</extent>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGA014_20mm_Oerlikon_MK4_dead.model>

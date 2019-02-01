@@ -1,1 +1,107 @@
-<FSB002_Richelieu_1940_Stern_lod2.visual><boundingBox><min>-0.694287 -0.659104 -8.355384</min><max>0.682617 1.030437 -5.857554</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Stern</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Stern_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>Stern_crack_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Stern_crack_MidBack_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern</node><geometry><vertices>Stern_lod2Shape.vertices</vertices><primitive>Stern_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern_DeckHouse</node><geometry><vertices>Stern_DeckHouse_lod2Shape.vertices</vertices><primitive>Stern_DeckHouse_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouseX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/856566cb9874f84f1f9e264878dc0d64.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern_crack_MidBack</node><geometry><vertices>Stern_crack_MidBack_lod2Shape.vertices</vertices><primitive>Stern_crack_MidBack_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern_crack_MidBack_in</node><geometry><vertices>Stern_crack_MidBack_in_lod2Shape.vertices</vertices><primitive>Stern_crack_MidBack_in_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/9013c4a378885f7224013d12511f3abf.mfm</mfm></material></primitiveGroup></geometry></renderSet></FSB002_Richelieu_1940_Stern_lod2.visual>
+<FSB002_Richelieu_1940_Stern_lod2.visual>
+	<boundingBox>
+		<min>	-0.694287 -0.659104 -8.355384	</min>
+		<max>	0.682617 1.030437 -5.857554	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Stern	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Stern_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Stern_crack_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Stern_crack_MidBack_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern	</node>
+		<geometry>
+			<vertices>	Stern_lod2Shape.vertices	</vertices>
+			<primitive>	Stern_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_DeckHouse	</node>
+		<geometry>
+			<vertices>	Stern_DeckHouse_lod2Shape.vertices	</vertices>
+			<primitive>	Stern_DeckHouse_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_crack_MidBack	</node>
+		<geometry>
+			<vertices>	Stern_crack_MidBack_lod2Shape.vertices	</vertices>
+			<primitive>	Stern_crack_MidBack_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_crack_MidBack_in	</node>
+		<geometry>
+			<vertices>	Stern_crack_MidBack_in_lod2Shape.vertices	</vertices>
+			<primitive>	Stern_crack_MidBack_in_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</FSB002_Richelieu_1940_Stern_lod2.visual>

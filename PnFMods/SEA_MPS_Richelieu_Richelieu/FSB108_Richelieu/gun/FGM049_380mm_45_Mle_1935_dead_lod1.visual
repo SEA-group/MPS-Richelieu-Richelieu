@@ -1,1 +1,44 @@
-<FGM049_380mm_45_Mle_1935_dead_lod1.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Turret_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Turret_dead</node><geometry><vertices>Turret_dead_lodShape1.vertices</vertices><primitive>Turret_dead_lodShape1.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDeadX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/026b92d2935d5b6ef220c550161180c5.mfm</mfm></material></primitiveGroup><primitiveGroup>1<material><identifier>SHIPMAT_PBS_GunDeadSkinX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/7719caf57cdf8e1119c7288498610343.mfm</mfm></material></primitiveGroup></geometry></renderSet><boundingBox><min>-0.511109 -0.016435 -0.602539</min><max>0.508015 0.409405 1.074885</max></boundingBox></FGM049_380mm_45_Mle_1935_dead_lod1.visual>
+<FGM049_380mm_45_Mle_1935_dead_lod1.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret_dead	</node>
+		<geometry>
+			<vertices>	Turret_dead_lodShape1.vertices	</vertices>
+			<primitive>	Turret_dead_lodShape1.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM049_380mm_45_Mle_1935_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadSkinX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM500_Skin_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.511109 -0.016435 -0.602539	</min>
+		<max>	0.508015 0.409405 1.074885	</max>
+	</boundingBox>
+</FGM049_380mm_45_Mle_1935_dead_lod1.visual>

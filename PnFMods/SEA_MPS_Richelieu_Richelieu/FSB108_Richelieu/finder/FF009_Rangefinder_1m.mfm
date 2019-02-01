@@ -1,0 +1,17 @@
+<FF009_Rangefinder_1m.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m_mg.dds	</Texture>
+	</property>
+</FF009_Rangefinder_1m.mfm>

@@ -1,1 +1,9 @@
-<FSB003_Richelieu_1944_MidBack.model><exporter>1.6</exporter><parent>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB003_Richelieu_1944_MidBack_lod1</parent><extent>7.0000</extent><castsShadow>true</castsShadow><materialNames /><nodefullVisual>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB003_Richelieu_1944_MidBack</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></FSB003_Richelieu_1944_MidBack.model>
+<FSB003_Richelieu_1944_MidBack.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB003_Richelieu_1944_MidBack_lod1	</parent>
+	<extent>	7.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB003_Richelieu_1944_MidBack	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FSB003_Richelieu_1944_MidBack.model>

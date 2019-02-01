@@ -1,0 +1,17 @@
+<FGA050_40mm_Bofors_dead.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/AGA056_40mm_Bofors_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/AGA056_40mm_Bofors_dead_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA050_40mm_Bofors_dead_a.dds	</Texture>
+	</property>
+</FGA050_40mm_Bofors_dead.mfm>

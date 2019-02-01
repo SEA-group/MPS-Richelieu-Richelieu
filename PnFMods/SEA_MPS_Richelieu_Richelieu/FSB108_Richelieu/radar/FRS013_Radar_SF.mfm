@@ -1,0 +1,17 @@
+<FRS013_Radar_SF.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS013_Radar_SF_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/ARS033_Radar_SF_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/ARS033_Radar_SF_mg.dds	</Texture>
+	</property>
+</FRS013_Radar_SF.mfm>

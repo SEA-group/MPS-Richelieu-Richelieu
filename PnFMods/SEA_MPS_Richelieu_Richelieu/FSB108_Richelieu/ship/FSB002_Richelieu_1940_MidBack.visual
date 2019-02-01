@@ -1,1 +1,263 @@
-<FSB002_Richelieu_1940_MidBack.visual><boundingBox><min>-1.133492 -0.692741 -6.938189</min><max>1.141829 2.876561 -0.594528</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidBack_crack_MidFront</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidBack_crack_MidFront_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidBack_crack_MidFront_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidBack_crack_Stern</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidBack_crack_Stern_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidBack_patch_Stern</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidBack_patch_Stern_wire</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidBack_wire</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidBack_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack</node><geometry><vertices>MidBackShape.vertices</vertices><primitive>MidBackShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup><primitiveGroup>1<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_MidFront</node><geometry><vertices>MidBack_crack_MidFrontShape.vertices</vertices><primitive>MidBack_crack_MidFrontShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_MidFront_in</node><geometry><vertices>MidBack_crack_MidFront_inShape.vertices</vertices><primitive>MidBack_crack_MidFront_inShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/9013c4a378885f7224013d12511f3abf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_MidFront_DeckHouse</node><geometry><vertices>MidBack_crack_MidFront_DeckHouseShape.vertices</vertices><primitive>MidBack_crack_MidFront_DeckHouseShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouseX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/856566cb9874f84f1f9e264878dc0d64.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_Stern</node><geometry><vertices>MidBack_crack_SternShape.vertices</vertices><primitive>MidBack_crack_SternShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_crack_Stern_in</node><geometry><vertices>MidBack_crack_Stern_inShape.vertices</vertices><primitive>MidBack_crack_Stern_inShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/9013c4a378885f7224013d12511f3abf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_patch_Stern</node><geometry><vertices>MidBack_patch_SternShape.vertices</vertices><primitive>MidBack_patch_SternShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup><primitiveGroup>1<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_patch_Stern_wire</node><geometry><vertices>MidBack_patch_Stern_wireShape.vertices</vertices><primitive>MidBack_patch_Stern_wireShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPWIRE_PBS_Hull</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/Does_Not_Exist.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_wire</node><geometry><vertices>MidBack_wireShape.vertices</vertices><primitive>MidBack_wireShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPWIRE_PBS_Hull</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/Does_Not_Exist.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidBack_DeckHouse</node><geometry><vertices>MidBack_DeckHouseShape.vertices</vertices><primitive>MidBack_DeckHouseShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouseX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/856566cb9874f84f1f9e264878dc0d64.mfm</mfm></material></primitiveGroup><primitiveGroup>1<material><identifier>SHIPMAT_PBS_DeckHouseX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/856566cb9874f84f1f9e264878dc0d64.mfm</mfm></material></primitiveGroup></geometry></renderSet></FSB002_Richelieu_1940_MidBack.visual>
+<FSB002_Richelieu_1940_MidBack.visual>
+	<boundingBox>
+		<min>	-1.133492 -0.692741 -6.938189	</min>
+		<max>	1.141829 2.876561 -0.594528	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidBack	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidBack_crack_MidFront	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidBack_crack_MidFront_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidBack_crack_MidFront_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidBack_crack_Stern	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidBack_crack_Stern_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidBack_patch_Stern	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidBack_patch_Stern_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidBack_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidBack_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack	</node>
+		<geometry>
+			<vertices>	MidBackShape.vertices	</vertices>
+			<primitive>	MidBackShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_MidFront	</node>
+		<geometry>
+			<vertices>	MidBack_crack_MidFrontShape.vertices	</vertices>
+			<primitive>	MidBack_crack_MidFrontShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_MidFront_in	</node>
+		<geometry>
+			<vertices>	MidBack_crack_MidFront_inShape.vertices	</vertices>
+			<primitive>	MidBack_crack_MidFront_inShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_MidFront_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidBack_crack_MidFront_DeckHouseShape.vertices	</vertices>
+			<primitive>	MidBack_crack_MidFront_DeckHouseShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_Stern	</node>
+		<geometry>
+			<vertices>	MidBack_crack_SternShape.vertices	</vertices>
+			<primitive>	MidBack_crack_SternShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_crack_Stern_in	</node>
+		<geometry>
+			<vertices>	MidBack_crack_Stern_inShape.vertices	</vertices>
+			<primitive>	MidBack_crack_Stern_inShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_patch_Stern	</node>
+		<geometry>
+			<vertices>	MidBack_patch_SternShape.vertices	</vertices>
+			<primitive>	MidBack_patch_SternShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_patch_Stern_wire	</node>
+		<geometry>
+			<vertices>	MidBack_patch_Stern_wireShape.vertices	</vertices>
+			<primitive>	MidBack_patch_Stern_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/Does_Not_Exist.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_wire	</node>
+		<geometry>
+			<vertices>	MidBack_wireShape.vertices	</vertices>
+			<primitive>	MidBack_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/Does_Not_Exist.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidBack_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidBack_DeckHouseShape.vertices	</vertices>
+			<primitive>	MidBack_DeckHouseShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</FSB002_Richelieu_1940_MidBack.visual>

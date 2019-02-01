@@ -1,1 +1,8 @@
-<FSB003_Richelieu_1944_Stern_lod2.model><exporter>1.6</exporter><parent>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB003_Richelieu_1944_Stern_lod3</parent><extent>43.0000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB003_Richelieu_1944_Stern_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></FSB003_Richelieu_1944_Stern_lod2.model>
+<FSB003_Richelieu_1944_Stern_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB003_Richelieu_1944_Stern_lod3	</parent>
+	<extent>	43.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB003_Richelieu_1944_Stern_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FSB003_Richelieu_1944_Stern_lod2.model>

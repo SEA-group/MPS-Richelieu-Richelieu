@@ -1,0 +1,17 @@
+<FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/default_ao.dds	</Texture>
+	</property>
+</FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead.mfm>

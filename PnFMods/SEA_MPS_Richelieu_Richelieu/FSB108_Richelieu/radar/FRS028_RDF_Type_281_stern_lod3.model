@@ -1,1 +1,17 @@
-<FRS028_RDF_Type_281_stern_lod3.model><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS028_RDF_Type_281_stern_lod3</nodefullVisual><extent>20.0000</extent><castsShadow>false</castsShadow><animation><name>NC_BRS038_Radar_Type_79</name><frameRate>30.0000</frameRate><nodes>content/animation/common/NC_BRS038_Radar_Type_79</nodes></animation><action><name>idle</name><animation>NC_BRS038_Radar_Type_79</animation><filler>true</filler></action><metaData>Wargaming | Lesta Studio</metaData></FRS028_RDF_Type_281_stern_lod3.model>
+<FRS028_RDF_Type_281_stern_lod3.model>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS028_RDF_Type_281_stern_lod3	</nodefullVisual>
+	<extent>	20.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<animation>
+		<name>	NC_BRS038_Radar_Type_79	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/NC_BRS038_Radar_Type_79	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	NC_BRS038_Radar_Type_79	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FRS028_RDF_Type_281_stern_lod3.model>

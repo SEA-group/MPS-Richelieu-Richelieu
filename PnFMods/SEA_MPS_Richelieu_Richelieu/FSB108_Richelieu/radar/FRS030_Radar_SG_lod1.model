@@ -1,1 +1,17 @@
-<FRS030_Radar_SG_lod1.model><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS030_Radar_SG_lod1</nodefullVisual><extent>20.0000</extent><castsShadow>false</castsShadow><animation><name>Rotation5rpm</name><frameRate>30.0000</frameRate><nodes>content/animation/common/Rotation5rpm</nodes></animation><action><name>idle</name><animation>Rotation5rpm</animation><filler>true</filler></action><metaData>Wargaming | Lesta Studio</metaData></FRS030_Radar_SG_lod1.model>
+<FRS030_Radar_SG_lod1.model>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS030_Radar_SG_lod1	</nodefullVisual>
+	<extent>	20.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FRS030_Radar_SG_lod1.model>

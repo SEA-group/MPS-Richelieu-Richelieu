@@ -1,1 +1,38 @@
-<FRS013_Radar_SF_lod1.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>ARS033_Radar_SF</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>ARS033_Radar_SF</node><geometry><vertices>ARS033_Radar_SF_lod1Shape.vertices</vertices><primitive>ARS033_Radar_SF_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Director</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/dcad0966e8abc206000c75595188ce95.mfm</mfm></material></primitiveGroup></geometry></renderSet><boundingBox><min>-0.024685 -0.004126 -0.024685</min><max>0.024685 0.061088 0.024685</max></boundingBox></FRS013_Radar_SF_lod1.visual>
+<FRS013_Radar_SF_lod1.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	ARS033_Radar_SF	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	ARS033_Radar_SF	</node>
+		<geometry>
+			<vertices>	ARS033_Radar_SF_lod1Shape.vertices	</vertices>
+			<primitive>	ARS033_Radar_SF_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS013_Radar_SF.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.024685 -0.004126 -0.024685	</min>
+		<max>	0.024685 0.061088 0.024685	</max>
+	</boundingBox>
+</FRS013_Radar_SF_lod1.visual>

@@ -1,1 +1,119 @@
-<FSB002_Richelieu_1940_Bow_lod3.visual><boundingBox><min>-0.785188 -0.659104 4.035352</min><max>0.785188 1.032536 8.316893</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Bow</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Bow_crack_MidFront</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Bow_crack_MidFront_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>Bow_patch_MidFront</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow</node><geometry><vertices>Bow_lod3Shape.vertices</vertices><primitive>Bow_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup><primitiveGroup>1<material><identifier>SHIPMAT_PBS_Jean_dArc</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/908b7fa2ad25de918cccbe64623ae2b1.mfm</mfm></material></primitiveGroup><primitiveGroup>2<material><identifier>SHIPMAT_PBS_DeckHouseX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/856566cb9874f84f1f9e264878dc0d64.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_crack_MidFront</node><geometry><vertices>Bow_crack_MidFront_lod3Shape.vertices</vertices><primitive>Bow_crack_MidFront_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_crack_MidFront_in</node><geometry><vertices>Bow_crack_MidFront_in_lod3Shape.vertices</vertices><primitive>Bow_crack_MidFront_in_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/9013c4a378885f7224013d12511f3abf.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_patch_MidFront</node><geometry><vertices>Bow_patch_MidFront_lod3Shape.vertices</vertices><primitive>Bow_patch_MidFront_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/49a5c5269170c6e57de9f46308ab7eaf.mfm</mfm></material></primitiveGroup></geometry></renderSet></FSB002_Richelieu_1940_Bow_lod3.visual>
+<FSB002_Richelieu_1940_Bow_lod3.visual>
+	<boundingBox>
+		<min>	-0.785188 -0.659104 4.035352	</min>
+		<max>	0.785188 1.032536 8.316893	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Bow_crack_MidFront	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Bow_crack_MidFront_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Bow_patch_MidFront	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow	</node>
+		<geometry>
+			<vertices>	Bow_lod3Shape.vertices	</vertices>
+			<primitive>	Bow_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_Jean_dArc	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB016_Richelieu_1944_3D.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	2
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_crack_MidFront	</node>
+		<geometry>
+			<vertices>	Bow_crack_MidFront_lod3Shape.vertices	</vertices>
+			<primitive>	Bow_crack_MidFront_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_crack_MidFront_in	</node>
+		<geometry>
+			<vertices>	Bow_crack_MidFront_in_lod3Shape.vertices	</vertices>
+			<primitive>	Bow_crack_MidFront_in_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_patch_MidFront	</node>
+		<geometry>
+			<vertices>	Bow_patch_MidFront_lod3Shape.vertices	</vertices>
+			<primitive>	Bow_patch_MidFront_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</FSB002_Richelieu_1940_Bow_lod3.visual>

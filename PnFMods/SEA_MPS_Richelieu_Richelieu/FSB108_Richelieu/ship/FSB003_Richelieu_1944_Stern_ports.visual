@@ -1,1 +1,222 @@
-<FSB003_Richelieu_1944_Stern_ports.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Stern_ports</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_FD_21</identifier><transform><row0>-0.500000 0.000000 0.866025 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.866025 0.000000 -0.500000 0.000000</row2><row3>-0.170481 0.500978 -6.516208 1.000000</row3></transform></node><node><identifier>HP_FD_22</identifier><transform><row0>-0.500000 0.000000 -0.866025 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.866025 0.000000 -0.500000 0.000000</row2><row3>0.170481 0.500978 -6.516208 1.000000</row3></transform></node><node><identifier>HP_FD_23</identifier><transform><row0>-0.342020 0.000000 0.939693 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.939693 0.000000 -0.342020 0.000000</row2><row3>-0.244772 0.503240 -7.010658 1.000000</row3></transform></node><node><identifier>HP_FD_24</identifier><transform><row0>-0.342020 0.000000 -0.939693 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.939693 0.000000 -0.342020 0.000000</row2><row3>0.244772 0.503240 -7.010658 1.000000</row3></transform></node><node><identifier>HP_FGA_51</identifier><transform><row0>-0.500000 0.000000 0.866025 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.866025 0.000000 -0.500000 0.000000</row2><row3>-0.407310 0.385837 -6.448658 1.000000</row3></transform></node><node><identifier>HP_FGA_52</identifier><transform><row0>-0.500000 0.000000 -0.866025 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.866025 0.000000 -0.500000 0.000000</row2><row3>0.407310 0.385837 -6.448658 1.000000</row3></transform></node><node><identifier>HP_FGA_53</identifier><transform><row0>-0.342020 0.000000 0.939693 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.939693 0.000000 -0.342020 0.000000</row2><row3>-0.344034 0.388812 -7.234402 1.000000</row3></transform></node><node><identifier>HP_FGA_54</identifier><transform><row0>-0.342020 0.000000 -0.939693 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.939693 0.000000 -0.342020 0.000000</row2><row3>0.344034 0.388812 -7.234402 1.000000</row3></transform></node><node><identifier>MP_FTB0126</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.386518 -6.079378 1.000000</row3></transform></node><node><identifier>MP_FTB0127</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.392068 -7.773914 1.000000</row3></transform></node><node><identifier>MP_FTB0128</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.498433 -6.787532 1.000000</row3></transform></node><node><identifier>MP_FM951_Anchor_up</identifier><transform><row0>0.700000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.387015 0.583283 0.000000</row1><row2>0.000000 -0.583283 0.387015 0.000000</row2><row3>0.000000 0.272030 -8.213236 1.000000</row3></transform></node><node><identifier>MP_CTB1530</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.432877 -6.627108 1.000000</row3></transform></node><node><identifier>MP_CM002_Propeller4_L</identifier><transform><row0>0.986997 0.160316 -0.011647 0.000000</row0><row1>-0.160655 0.986232 -0.039204 0.000000</row1><row2>0.005202 0.040566 0.999163 0.000000</row2><row3>-0.324247 -0.494941 -6.750896 1.000000</row3></transform></node><node><identifier>MP_FM011_Reels</identifier><transform><row0>1.039787 0.000000 -0.268561 0.000000</row0><row1>-0.220922 0.000000 -0.855344 0.000000</row1><row2>0.000000 0.883414 0.000000 0.000000</row2><row3>0.295640 0.448461 -7.425999 1.000000</row3></transform></node><node><identifier>MP_FM851_Mastheadlight</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 0.468388 -8.201469 1.000000</row3></transform></node><node><identifier>MP_FM950_Anchor_bottom</identifier><transform><row0>0.700000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.684979 0.144234 0.000000</row1><row2>0.000000 -0.144234 0.684979 0.000000</row2><row3>0.000000 0.271746 -8.213299 1.000000</row3></transform></node><node><identifier>MP_CTB1531</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.386713 -6.539005 1.000000</row3></transform></node><node><identifier>MP_CM033_Propeller4_R</identifier><transform><row0>0.986997 -0.160316 0.011647 0.000000</row0><row1>0.160655 0.986232 -0.039204 0.000000</row1><row2>-0.005202 0.040566 0.999163 0.000000</row2><row3>0.324247 -0.494941 -6.750896 1.000000</row3></transform></node><node><identifier>MP_FM954_Anchor_Capstan_Back</identifier><transform><row0>1.094030 0.000000 0.000000 0.000000</row0><row1>0.000000 1.094030 0.000000 0.000000</row1><row2>0.000000 0.000000 1.094030 0.000000</row2><row3>0.015393 0.411082 -7.421253 1.000000</row3></transform></node><node><identifier>HP_Fire_Burn_4</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 -7.344554 1.000000</row3></transform></node><node><identifier>HP_Ship_death_3</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 -6.069147 1.000000</row3></transform></node></node></node><boundingBox><min>-0.066700 -0.066700 -0.066700</min><max>0.066700 0.066700 0.066700</max></boundingBox></FSB003_Richelieu_1944_Stern_ports.visual>
+<FSB003_Richelieu_1944_Stern_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Stern_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_FD_21	</identifier>
+				<transform>
+					<row0>	-0.500000 0.000000 0.866025 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.866025 0.000000 -0.500000 0.000000	</row2>
+					<row3>	-0.170481 0.500978 -6.516208 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FD_22	</identifier>
+				<transform>
+					<row0>	-0.500000 0.000000 -0.866025 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.866025 0.000000 -0.500000 0.000000	</row2>
+					<row3>	0.170481 0.500978 -6.516208 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FD_23	</identifier>
+				<transform>
+					<row0>	-0.342020 0.000000 0.939693 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.939693 0.000000 -0.342020 0.000000	</row2>
+					<row3>	-0.244772 0.503240 -7.010658 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FD_24	</identifier>
+				<transform>
+					<row0>	-0.342020 0.000000 -0.939693 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.939693 0.000000 -0.342020 0.000000	</row2>
+					<row3>	0.244772 0.503240 -7.010658 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGA_51	</identifier>
+				<transform>
+					<row0>	-0.500000 0.000000 0.866025 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.866025 0.000000 -0.500000 0.000000	</row2>
+					<row3>	-0.407310 0.385837 -6.448658 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGA_52	</identifier>
+				<transform>
+					<row0>	-0.500000 0.000000 -0.866025 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.866025 0.000000 -0.500000 0.000000	</row2>
+					<row3>	0.407310 0.385837 -6.448658 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGA_53	</identifier>
+				<transform>
+					<row0>	-0.342020 0.000000 0.939693 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.939693 0.000000 -0.342020 0.000000	</row2>
+					<row3>	-0.344034 0.388812 -7.234402 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGA_54	</identifier>
+				<transform>
+					<row0>	-0.342020 0.000000 -0.939693 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.939693 0.000000 -0.342020 0.000000	</row2>
+					<row3>	0.344034 0.388812 -7.234402 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0126	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.386518 -6.079378 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0127	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.392068 -7.773914 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FTB0128	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.498433 -6.787532 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM951_Anchor_up	</identifier>
+				<transform>
+					<row0>	0.700000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.387015 0.583283 0.000000	</row1>
+					<row2>	0.000000 -0.583283 0.387015 0.000000	</row2>
+					<row3>	0.000000 0.272030 -8.213236 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB1530	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.432877 -6.627108 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM002_Propeller4_L	</identifier>
+				<transform>
+					<row0>	0.986997 0.160316 -0.011647 0.000000	</row0>
+					<row1>	-0.160655 0.986232 -0.039204 0.000000	</row1>
+					<row2>	0.005202 0.040566 0.999163 0.000000	</row2>
+					<row3>	-0.324247 -0.494941 -6.750896 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM011_Reels	</identifier>
+				<transform>
+					<row0>	1.039787 0.000000 -0.268561 0.000000	</row0>
+					<row1>	-0.220922 0.000000 -0.855344 0.000000	</row1>
+					<row2>	0.000000 0.883414 0.000000 0.000000	</row2>
+					<row3>	0.295640 0.448461 -7.425999 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM851_Mastheadlight	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.468388 -8.201469 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM950_Anchor_bottom	</identifier>
+				<transform>
+					<row0>	0.700000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.684979 0.144234 0.000000	</row1>
+					<row2>	0.000000 -0.144234 0.684979 0.000000	</row2>
+					<row3>	0.000000 0.271746 -8.213299 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB1531	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.386713 -6.539005 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM033_Propeller4_R	</identifier>
+				<transform>
+					<row0>	0.986997 -0.160316 0.011647 0.000000	</row0>
+					<row1>	0.160655 0.986232 -0.039204 0.000000	</row1>
+					<row2>	-0.005202 0.040566 0.999163 0.000000	</row2>
+					<row3>	0.324247 -0.494941 -6.750896 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM954_Anchor_Capstan_Back	</identifier>
+				<transform>
+					<row0>	1.094030 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.094030 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.094030 0.000000	</row2>
+					<row3>	0.015393 0.411082 -7.421253 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 -7.344554 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 -6.069147 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+</FSB003_Richelieu_1944_Stern_ports.visual>

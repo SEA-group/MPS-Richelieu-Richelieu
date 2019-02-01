@@ -1,0 +1,17 @@
+<FSB016_Richelieu_1944_3D.mfm>
+	<fx>	shaders/std_effects/PBS_ship_metallic.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB016_Richelieu_1944_3D_skin_Jeanne_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB016_Richelieu_1944_3D_skin_Jeanne_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB016_Richelieu_1944_3D_skin_Jeanne_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB016_Richelieu_1944_3D_skin_Jeanne_mg.dds	</Texture>
+	</property>
+</FSB016_Richelieu_1944_3D.mfm>
