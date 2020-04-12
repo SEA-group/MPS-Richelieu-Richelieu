@@ -3,9 +3,7 @@
 ======================Presented by SEA group======================
 
 Installation: 
-
 Copy "content"(optional), "PnFMods" and "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
-
 
 安装：
 把content(选装）、PnFMods和PnFModsLoader.py放到

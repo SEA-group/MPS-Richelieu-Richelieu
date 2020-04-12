@@ -1,0 +1,14 @@
+<Does_Not_Exist.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/default_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/default_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/default_mg.dds	</Texture>
+	</property>
+</Does_Not_Exist.mfm>
