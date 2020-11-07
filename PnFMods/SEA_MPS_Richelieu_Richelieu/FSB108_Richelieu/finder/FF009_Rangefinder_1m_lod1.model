@@ -1,8 +1,0 @@
-<FF009_Rangefinder_1m_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m_lod2	</parent>
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m_lod1	</nodefullVisual>
-	<extent>	3	</extent>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</FF009_Rangefinder_1m_lod1.model>

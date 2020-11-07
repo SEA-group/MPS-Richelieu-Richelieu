@@ -1,6 +1,6 @@
 <FAS004_Gourdou_Leseurre_GL821.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/aircraft/FAS004_Gourdou_Leseurre_GL821_lod1	</parent>
+	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/aircraft/lods/FAS004_Gourdou_Leseurre_GL821_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<materialNames />

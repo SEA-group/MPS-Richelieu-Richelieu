@@ -1,8 +1,0 @@
-<FSB002_Richelieu_1940_Bow_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_Bow_lod2	</parent>
-	<extent>	25.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_Bow_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</FSB002_Richelieu_1940_Bow_lod1.model>

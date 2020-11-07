@@ -79,6 +79,15 @@
 								<row3>	0.000000 -0.088360 -0.550877 1.000000	</row3>
 							</transform>
 						</node>
+						<node>
+							<identifier>	Roll_Back1_BlendBone_Metal	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+								<row3>	0.000000 -0.088360 -0.550877 1.000000	</row3>
+							</transform>
+						</node>
 					</node>
 					<node>
 						<identifier>	HP_gunFireEffect	</identifier>
@@ -91,6 +100,15 @@
 					</node>
 					<node>
 						<identifier>	Rotate_X_BlendBone	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+							<row3>	0.000000 -0.088360 -0.085312 1.000000	</row3>
+						</transform>
+					</node>
+					<node>
+						<identifier>	Rotate_X_BlendBone_Metal	</identifier>
 						<transform>
 							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
@@ -162,6 +180,15 @@
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
 				</node>
+				<node>
+					<identifier>	Rotate_Y_BlendBone_Metal	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
 			</node>
 			<node>
 				<identifier>	Root_BlendBone	</identifier>
@@ -197,7 +224,17 @@
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM047_152_55_Mle_1936_RF_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	Rotate_Y_BlendBone_Metal	</node>
+		<node>	Rotate_X_BlendBone_Metal	</node>
+		<node>	Roll_Back1_BlendBone_Metal	</node>
+		<geometry>
+			<vertices>	SEA_Metal.vertices	</vertices>
+			<primitive>	SEA_Metal.indices	</primitive>			
+			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_GunSkinX	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM500_Skin_skinned.mfm	</mfm>

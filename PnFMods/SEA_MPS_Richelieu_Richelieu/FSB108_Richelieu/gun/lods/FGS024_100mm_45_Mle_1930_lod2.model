@@ -1,0 +1,8 @@
+<FGS024_100mm_45_Mle_1930_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/lods/FGS024_100mm_45_Mle_1930_lod3	</parent>
+	<extent>	20.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/lods/FGS024_100mm_45_Mle_1930_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGS024_100mm_45_Mle_1930_lod2.model>

@@ -1,8 +1,0 @@
-<FGA050_40mm_Bofors_dead_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA050_40mm_Bofors_dead_lod3	</parent>
-	<extent>	20.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA050_40mm_Bofors_dead_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</FGA050_40mm_Bofors_dead_lod2.model>

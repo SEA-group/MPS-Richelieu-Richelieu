@@ -1,6 +1,6 @@
 <FGA027_37_50_ACAD.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA027_37_50_ACAD_lod1	</parent>
+	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/lods/FGA027_37_50_ACAD_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>

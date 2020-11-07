@@ -1,7 +1,7 @@
 <FRS012_Radar_SA.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS012_Radar_SA_lod1	</parent>
+	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/lods/FRS012_Radar_SA_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<materialNames />
 	<animation>

@@ -1,6 +1,6 @@
 <FGS052_152_55_Mle_1936.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGS052_152_55_Mle_1936_lod1	</parent>
+	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/lods/FGS052_152_55_Mle_1936_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<materialNames />

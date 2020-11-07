@@ -1,8 +1,0 @@
-<FGM049_380mm_45_Mle_1935_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM049_380mm_45_Mle_1935_lod2	</parent>
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM049_380mm_45_Mle_1935_lod1	</nodefullVisual>
-	<extent>	12.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</FGM049_380mm_45_Mle_1935_lod1.model>
