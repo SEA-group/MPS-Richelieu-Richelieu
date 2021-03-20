@@ -714,7 +714,43 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.3687 -2.3045 1.0000	</row3>
+					<row3>	0.0000 0.5519 -4.0454 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_3_side_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.9098 0.5992 -2.3511 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_3_side_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.7796 0.5659 -3.2975 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_3_side_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.5396 0.5649 -5.2372 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_5	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5197 -1.4887 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -756,10 +792,10 @@
 			<node>
 				<identifier>	HP_FX_Flood_water_left	</identifier>
 				<transform>
-					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	-0.9994 0.0000 -0.0342 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-1.0670 0.0820 -2.0630 1.0000	</row3>
+					<row2>	0.0342 0.0000 -0.9994 0.0000	</row2>
+					<row3>	-1.0670 0.0820 -2.0574 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -768,7 +804,7 @@
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-0.8440 0.0780 -4.6140 1.0000	</row3>
+					<row3>	-0.8440 0.0769 -4.6140 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -777,7 +813,7 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	1.0670 0.0820 -2.0630 1.0000	</row3>
+					<row3>	1.0670 0.0843 -2.0570 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -786,16 +822,52 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.8440 0.0780 -4.6140 1.0000	</row3>
+					<row3>	0.8440 0.0806 -4.6140 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_RepairLight_left_2	</identifier>
+				<transform>
+					<row0>	-0.0734 0.0000 0.9973 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9973 0.0000 -0.0734 0.0000	</row2>
+					<row3>	-1.0057 0.5592 -2.9508 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_RepairLight_right_2	</identifier>
+				<transform>
+					<row0>	-0.0862 0.0000 -0.9963 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9963 0.0000 -0.0862 0.0000	</row2>
+					<row3>	0.9492 0.5610 -3.6456 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
 				<identifier>	HP_FX_Smoke_1	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.9352 -0.3541 0.0000	</row1>
+					<row2>	0.0000 0.3541 0.9352 0.0000	</row2>
+					<row3>	0.0000 1.5051 -2.5273 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.5483 -2.5745 1.0000	</row3>
+					<row3>	-0.5958 -0.4969 -5.7767 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.5958 -0.4969 -5.7767 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

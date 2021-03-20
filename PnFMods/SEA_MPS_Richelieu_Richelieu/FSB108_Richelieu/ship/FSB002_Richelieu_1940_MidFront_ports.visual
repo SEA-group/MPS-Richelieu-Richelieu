@@ -574,102 +574,129 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_Death_3	</identifier>
+				<identifier>	HP_FX_Death_2	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 -6.0956 1.0000	</row3>
+					<row3>	0.0000 0.0000 -1.2257 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_Fire_3	</identifier>
+				<identifier>	HP_FX_Fire_2	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.3687 -2.3045 1.0000	</row3>
+					<row3>	-0.0223 1.2560 0.2621 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_FloodLight_left_1	</identifier>
+				<identifier>	HP_FX_Fire_2_side_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.8727 0.3931 2.1681 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2_side_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.6903 0.7532 0.4561 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_5_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.0223 0.6422 -0.9285 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_FloodLight_left_2	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-0.3530 0.6210 -3.8110 1.0000	</row3>
+					<row3>	-0.2578 1.2934 -0.3756 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_FloodLight_right_2	</identifier>
+				<identifier>	HP_FX_FloodLight_right_1	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.3570 0.6210 -3.8060 1.0000	</row3>
+					<row3>	0.2567 1.2914 -0.3056 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_Flood_steam_1	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0260 1.4240 -2.6020 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Flood_steam_right	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	1.0400 0.2710 -2.7000 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Flood_water_left	</identifier>
+				<identifier>	HP_FX_Flood_steam_left	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-1.0670 0.0820 -2.0630 1.0000	</row3>
+					<row3>	-0.8736 0.2737 3.0568 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_Flood_water_left_3	</identifier>
+				<identifier>	HP_FX_Flood_water_left_2	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-0.8440 0.0780 -4.6140 1.0000	</row3>
+					<row3>	-1.1035 0.0758 -0.0728 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_Flood_water_right	</identifier>
+				<identifier>	HP_FX_Flood_water_left_4	</identifier>
+				<transform>
+					<row0>	-0.9945 0.0000 0.1043 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.1043 0.0000 -0.9945 0.0000	</row2>
+					<row3>	-1.0050 0.0789 1.8420 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_water_right_2	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	1.0670 0.0820 -2.0630 1.0000	</row3>
+					<row3>	1.1017 0.0827 -0.0729 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_Flood_water_right_3	</identifier>
+				<identifier>	HP_FX_Flood_water_right_4	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.9936 0.0000 0.1127 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.8440 0.0780 -4.6140 1.0000	</row3>
+					<row2>	-0.1127 0.0000 0.9936 0.0000	</row2>
+					<row3>	1.0035 0.0779 1.8410 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_FX_Smoke_1	</identifier>
+				<identifier>	HP_FX_RepairLight_left_2	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.5483 -2.5745 1.0000	</row3>
+					<row0>	0.1007 0.0000 0.9949 0.0000	</row0>
+					<row1>	-0.0195 0.9998 0.0020 0.0000	</row1>
+					<row2>	-0.9947 -0.0196 0.1007 0.0000	</row2>
+					<row3>	-0.9158 0.4046 2.7942 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_RepairLight_right_1	</identifier>
+				<transform>
+					<row0>	0.0899 0.0000 -0.9959 0.0000	</row0>
+					<row1>	0.0195 0.9998 0.0018 0.0000	</row1>
+					<row2>	0.9958 -0.0196 0.0899 0.0000	</row2>
+					<row3>	0.9855 0.3918 2.0637 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
