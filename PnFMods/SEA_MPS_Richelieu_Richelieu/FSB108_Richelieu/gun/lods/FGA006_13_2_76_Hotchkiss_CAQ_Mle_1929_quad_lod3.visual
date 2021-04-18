@@ -47,7 +47,7 @@
 			<primitive>	Hotchkiss_CAQ_Mle_1929_quad_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.mfm	</mfm>
 				</material>
 			</primitiveGroup>

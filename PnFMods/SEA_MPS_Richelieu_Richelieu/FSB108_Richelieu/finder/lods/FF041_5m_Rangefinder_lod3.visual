@@ -71,7 +71,7 @@
 			<primitive>	FF041_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF041_5m_Rangefinder_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

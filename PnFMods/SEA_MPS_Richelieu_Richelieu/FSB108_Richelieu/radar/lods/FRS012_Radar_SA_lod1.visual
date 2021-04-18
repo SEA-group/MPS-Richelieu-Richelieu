@@ -74,7 +74,7 @@
 			<primitive>	ARS036_Radar_SA_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS012_Radar_SA_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

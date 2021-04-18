@@ -319,7 +319,7 @@
 			<primitive>	MidFront_patch_MidBack_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -333,7 +333,7 @@
 			<primitive>	MidFront_wire_flagfal_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -347,7 +347,7 @@
 			<primitive>	MidFront_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/ship/FSB002_Richelieu_1940_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

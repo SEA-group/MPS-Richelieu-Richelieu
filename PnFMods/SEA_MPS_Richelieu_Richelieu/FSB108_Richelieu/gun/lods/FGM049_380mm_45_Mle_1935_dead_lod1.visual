@@ -34,7 +34,7 @@
 			<primitive>	Turret_dead_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM049_380mm_45_Mle_1935_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -48,7 +48,7 @@
 			<primitive>	SEA_Metal.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadSkinX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadSkinX	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM500_Skin_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

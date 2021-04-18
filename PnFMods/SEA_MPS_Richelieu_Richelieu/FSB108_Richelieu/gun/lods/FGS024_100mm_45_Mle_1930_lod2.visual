@@ -150,7 +150,7 @@
 			<primitive>	Turret_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGS024_100mm_45_Mle_1930_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

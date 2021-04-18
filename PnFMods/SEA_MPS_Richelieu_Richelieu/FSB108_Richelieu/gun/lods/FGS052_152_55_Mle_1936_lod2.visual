@@ -220,7 +220,7 @@
 			<primitive>	Turret_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM047_152_55_Mle_1936_RF_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -236,7 +236,7 @@
 			<primitive>	SEA_Metal.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunSkinX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunSkinX	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM500_Skin_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

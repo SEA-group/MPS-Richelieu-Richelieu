@@ -25,7 +25,7 @@
 			<primitive>	FF009_Rangefinder_1m_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m.mfm	</mfm>
 				</material>
 			</primitiveGroup>

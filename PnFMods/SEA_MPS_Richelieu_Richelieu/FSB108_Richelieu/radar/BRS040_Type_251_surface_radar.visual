@@ -38,7 +38,7 @@
 			<primitive>	meshShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/BRS038_Radar_Type_79.mfm	</mfm>
 				</material>
 			</primitiveGroup>

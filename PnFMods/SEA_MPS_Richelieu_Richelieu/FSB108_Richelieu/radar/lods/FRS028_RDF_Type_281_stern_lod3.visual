@@ -136,7 +136,7 @@
 			<primitive>	BRS021_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS028_RDF_Type_281_stern_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

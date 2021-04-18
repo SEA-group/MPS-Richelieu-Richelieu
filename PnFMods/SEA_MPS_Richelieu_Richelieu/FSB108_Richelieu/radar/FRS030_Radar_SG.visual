@@ -70,7 +70,7 @@
 			<primitive>	RadarShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS030_Radar_SG_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -84,7 +84,7 @@
 			<primitive>	rotorShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS030_Radar_SG_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
