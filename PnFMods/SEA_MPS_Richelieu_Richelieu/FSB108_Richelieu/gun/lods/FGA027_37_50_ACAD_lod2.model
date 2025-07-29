@@ -1,9 +1,0 @@
-<FGA027_37_50_ACAD_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/lods/FGA027_37_50_ACAD_lod3	</parent>
-	<extent>	12.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/lods/FGA027_37_50_ACAD_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</FGA027_37_50_ACAD_lod2.model>

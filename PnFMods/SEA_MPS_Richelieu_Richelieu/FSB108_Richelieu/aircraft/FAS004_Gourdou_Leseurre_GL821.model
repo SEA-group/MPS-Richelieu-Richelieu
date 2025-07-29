@@ -1,9 +1,6 @@
 <FAS004_Gourdou_Leseurre_GL821.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/aircraft/lods/FAS004_Gourdou_Leseurre_GL821_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<materialNames />
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/aircraft/FAS004_Gourdou_Leseurre_GL821	</nodefullVisual>
+	<visual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/aircraft/FAS004_Gourdou_Leseurre_GL821.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FAS004_Gourdou_Leseurre_GL821.model>

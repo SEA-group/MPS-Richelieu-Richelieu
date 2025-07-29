@@ -1,9 +1,6 @@
 <FRS013_Radar_SF.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/lods/FRS013_Radar_SF_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS013_Radar_SF	</nodefullVisual>
-	<extent>	10	</extent>
-	<materialNames />
+	<visual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS013_Radar_SF.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FRS013_Radar_SF.model>

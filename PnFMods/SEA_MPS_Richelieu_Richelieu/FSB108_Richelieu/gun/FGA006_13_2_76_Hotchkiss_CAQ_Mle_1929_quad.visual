@@ -1,56 +1,124 @@
 <FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Hotchkiss_CAQ_Mle_1929_quad	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	HP_gunFire1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+						<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+						<row3>	0.000000 0.093758 0.051466 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_gunFireEffect	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+						<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+						<row3>	0.000000 0.093758 0.051466 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.061023 0.000000 -0.043810	</min>
 		<max>	0.061019 0.101163 0.062547	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	Hotchkiss_CAQ_Mle_1929_quad	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	HP_gunFire1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
-					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
-					<row3>	0.000000 0.093758 0.051466 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_gunFireEffect	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
-					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
-					<row3>	0.000000 0.093758 0.051466 1.000000	</row3>
-				</transform>
-			</node>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Hotchkiss_CAQ_Mle_1929_quad	</node>
-		<geometry>
-			<vertices>	Hotchkiss_CAQ_Mle_1929_quadShape.vertices	</vertices>
-			<primitive>	Hotchkiss_CAQ_Mle_1929_quadShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_GunX	</identifier>
-					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	Hotchkiss_CAQ_Mle_1929_quadShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Hotchkiss_CAQ_Mle_1929_quad	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Hotchkiss_CAQ_Mle_1929_quad_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Hotchkiss_CAQ_Mle_1929_quad	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Hotchkiss_CAQ_Mle_1929_quad_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Hotchkiss_CAQ_Mle_1929_quad	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Hotchkiss_CAQ_Mle_1929_quad_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Hotchkiss_CAQ_Mle_1929_quad	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	3.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Hotchkiss_CAQ_Mle_1929_quadShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	5.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Hotchkiss_CAQ_Mle_1929_quad_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	10.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Hotchkiss_CAQ_Mle_1929_quad_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	60.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Hotchkiss_CAQ_Mle_1929_quad_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.visual>

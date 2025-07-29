@@ -1,38 +1,106 @@
 <FF009_Rangefinder_1m.visual>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	FF009_Rangefinder_1m	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
 			</transform>
+			<node>
+				<identifier>	FF009_Rangefinder_1m	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
 		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	FF009_Rangefinder_1m	</node>
-		<geometry>
-			<vertices>	FF009_Rangefinder_1mShape.vertices	</vertices>
-			<primitive>	FF009_Rangefinder_1mShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Director	</identifier>
-					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.035807 -0.000686 -0.029848	</min>
 		<max>	0.035807 0.085967 0.016675	</max>
 	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	FF009_Rangefinder_1mShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	FF009_Rangefinder_1m	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	FF009_Rangefinder_1m_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	FF009_Rangefinder_1m	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	FF009_Rangefinder_1m_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	FF009_Rangefinder_1m	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	FF009_Rangefinder_1m_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	FF009_Rangefinder_1m	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/finder/FF009_Rangefinder_1m.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	1	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	FF009_Rangefinder_1mShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	3	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	FF009_Rangefinder_1m_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	5	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	FF009_Rangefinder_1m_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	12	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	FF009_Rangefinder_1m_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </FF009_Rangefinder_1m.visual>

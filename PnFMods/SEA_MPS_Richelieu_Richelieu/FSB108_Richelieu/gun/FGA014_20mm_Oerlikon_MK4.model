@@ -1,9 +1,6 @@
 <FGA014_20mm_Oerlikon_MK4.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/lods/FGA014_20mm_Oerlikon_MK4_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA014_20mm_Oerlikon_MK4	</nodefullVisual>
-	<extent>	2.0000	</extent>
-	<materialNames />
+	<visual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGA014_20mm_Oerlikon_MK4.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FGA014_20mm_Oerlikon_MK4.model>

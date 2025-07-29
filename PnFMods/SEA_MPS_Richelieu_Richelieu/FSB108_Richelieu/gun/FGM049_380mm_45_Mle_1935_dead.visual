@@ -1,61 +1,130 @@
 <FGM049_380mm_45_Mle_1935_dead.visual>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	Turret_dead	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
 			</transform>
+			<node>
+				<identifier>	Turret_dead	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Turret_dead_Metal	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
 		</node>
-		<node>
-			<identifier>	Turret_dead_Metal	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Turret_dead	</node>
-		<geometry>
-			<vertices>	Turret_deadShape.vertices	</vertices>
-			<primitive>	Turret_deadShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
-					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM049_380mm_45_Mle_1935_dead.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Turret_dead_Metal	</node>
-		<geometry>
-			<vertices>	SEA_Metal.vertices	</vertices>
-			<primitive>	SEA_Metal.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_GunDeadSkinX	</identifier>
-					<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM500_Skin_dead.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.528973 -0.020214 -0.602539	</min>
 		<max>	0.528012 0.409405 1.074885	</max>
 	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	Turret_deadShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Turret_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM049_380mm_45_Mle_1935_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	SEA_Metal	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Turret_dead_Metal	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunDeadSkinX	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM500_Skin_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Turret_dead_lodShape1	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Turret_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM049_380mm_45_Mle_1935_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Turret_dead_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Turret_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM049_380mm_45_Mle_1935_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Turret_dead_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Turret_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
+				<mfm>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/gun/FGM049_380mm_45_Mle_1935_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	3.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	Turret_deadShape	</renderSet>
+				<renderSet>	SEA_Metal	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	12.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	Turret_dead_lodShape1	</renderSet>
+				<renderSet>	SEA_Metal	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	40.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	Turret_dead_lod2Shape	</renderSet>
+				<renderSet>	SEA_Metal	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	200.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Turret_dead_lod3Shape	</renderSet>
+				<renderSet>	SEA_Metal	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </FGM049_380mm_45_Mle_1935_dead.visual>

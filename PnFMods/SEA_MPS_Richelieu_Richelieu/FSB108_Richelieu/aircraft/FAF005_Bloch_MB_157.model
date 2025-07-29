@@ -1,9 +1,6 @@
 <FAF005_Bloch_MB_157.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/aircraft/lods/FAF005_Bloch_MB_157_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/aircraft/FAF005_Bloch_MB_157	</nodefullVisual>
+	<visual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/aircraft/FAF005_Bloch_MB_157.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FAF005_Bloch_MB_157.model>

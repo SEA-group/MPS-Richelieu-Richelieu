@@ -1,19 +1,8 @@
 <FRS030_Radar_SG.model>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation5rpm	</animation>
-		<filler>	true	</filler>
-	</action>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/lods/FRS030_Radar_SG_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS030_Radar_SG	</nodefullVisual>
-	<extent>	3.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<materialNames />
-	<animation>
-		<name>	Rotation5rpm	</name>
-		<frameRate>	30.0000	</frameRate>
-		<nodes>	content/animation/common/Rotation5rpm	</nodes>
-	</animation>
+	<visual>	PnFMods/SEA_MPS_Richelieu_Richelieu/FSB108_Richelieu/radar/FRS030_Radar_SG.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/FRS030_Radar_SG/FRS030_Radar_SG.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FRS030_Radar_SG.model>
